@@ -1,4 +1,4 @@
-package main.java.com.project.senateBusProblem;
+package Lab02.senateBusProblem;
 
 import java.util.concurrent.Semaphore;
 
